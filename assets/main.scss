@@ -63,7 +63,7 @@ since it must be aligned with the content */
 	width: 96px;
 	height: 96px;
 	display: inline-block;
-	background-size: cover;
+	background-size: contain;
 	border-radius: 50%;
 	-moz-border-radius: 50%;
 	border: 2px solid $background-color;
